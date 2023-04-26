@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kamin4
 - 👀 I’m interested in dev, reverse & gaming
-- 🌱 I’m currently learning software engineering at school, python, js
+- 🌱 I’m currently learning software engineering at school, python, js, C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me n0rIn4#3837
 
